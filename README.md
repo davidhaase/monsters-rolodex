@@ -14,7 +14,7 @@ Enormous gratitude to the tutorial instructors an *Zero to Mastery*:
 - Yihua Zhang
 
 
-# Boilerplate readme.md from react follws
+# Boilerplate readme.md from react below:
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
