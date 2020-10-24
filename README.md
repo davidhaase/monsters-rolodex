@@ -1,5 +1,5 @@
 # Monsters Rolodex
-This is a playful static webapp built as a tutorial and showcase for coding React.  Monsters Rolodex displays business cards for various monsters with basic search functionality. 
+This is a playful static React webapp built as a tutorial and showcase for coding React.  Monsters Rolodex displays business cards for various monsters with basic search functionality. 
 
 - It can be viewed on Github Pages, check it out: https://davidhaase.github.io/monsters-rolodex/
 
